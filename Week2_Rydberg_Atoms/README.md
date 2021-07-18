@@ -2,6 +2,12 @@
 ## Project 2: Optimization problems \& Rydberg atom arrays
 Team 1: 
 
+
+Task 1
+
+Convergence to solution varies depending on temperature step. Faster cooling risks leading to a suboptimal solution. Slow cooling helps to get to global minimum. Biggest sensitivity to cooling schedule is achieved when
+
+
 This project will guide you through using the foundations of quantum hardware to demonstrate a quantum advantage in real-world problems.
 
 Open up [instructions.pdf](https://github.com/CDL-Quantum/CohortProject_2021/tree/main/Week2_Rydberg_Atoms/instructions.pdf) to begin learning about your tasks for this week!
